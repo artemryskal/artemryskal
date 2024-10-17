@@ -4,7 +4,6 @@
 #artemryskal {
   position: Moscow;
   height: 175cm;
-  display: boy;
   personality: curious;
   hobbies: [programming, photography, hiking];
   favorite_language: "JavaScript";
