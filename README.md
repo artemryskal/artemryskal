@@ -5,7 +5,7 @@
   position: Moscow;
   height: 175cm;
   personality: curious;
-  hobbies: [programming, photography, hiking];
+  hobbies: list(programming, photography, hiking);
   favorite_language: "JavaScript";
 }
 ```
