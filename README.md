@@ -27,6 +27,3 @@
 - Docker
 - Nginx
 - Python
-
-### Контакты
-[Telegram](https://t.me/southgaaarden)
